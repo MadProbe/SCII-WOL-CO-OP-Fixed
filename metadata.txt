@@ -1,0 +1,5 @@
+title=WoL Nightmare CO-OP Dep
+desc=WoL Nightmare with CO-OP dep and bugs fixed
+author=MadProbe (Rhyme)
+campaign=WoL
+version=1.0
